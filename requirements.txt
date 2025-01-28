@@ -1,0 +1,10 @@
+streamlit
+llama-parse
+llama-index
+google-generativeai
+python-dotenv
+nest-asyncio
+llama-index-llms-gemini
+llama-index-embeddings-gemini
+faiss-cpu
+numpy
